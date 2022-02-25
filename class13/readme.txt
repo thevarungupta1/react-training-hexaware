@@ -22,3 +22,22 @@ point of time
 the react biew to be ready by reducer
 
 # Reducer: reducer is a pure function able to read the payload from the action and then execute updating the store
+
+
+# Steps
+1. install
+> npm i redux
+> npm i react-redux
+
+2. create store/index.js
+
+3. create initialState
+
+4. create reducer
+
+5. create store
+
+6. configure store with react app
+
+7. consume store in react component
+
